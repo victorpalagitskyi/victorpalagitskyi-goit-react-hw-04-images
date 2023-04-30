@@ -20,8 +20,9 @@ export const App = () => {
     if (searchValue) {
       if (numberOfPage === 1) setImages([])
       setIsLoading(true)
-      SearchService.getImages(searchValue)
+      SearchService.getImages(searchValue, numberOfPage)
         .then(data => {
+          console.log(data)
           setImages(images =>[...images, ...data.data.hits])
           setTotalHits(data.data.totalHits)
         })
