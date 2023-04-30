@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/victorpalagitskyi-goit-react-hw-04-images/static/css/main.9244e408.css",
-    "main.js": "/victorpalagitskyi-goit-react-hw-04-images/static/js/main.03ead488.js",
+    "main.js": "/victorpalagitskyi-goit-react-hw-04-images/static/js/main.190373fb.js",
     "index.html": "/victorpalagitskyi-goit-react-hw-04-images/index.html",
     "main.9244e408.css.map": "/victorpalagitskyi-goit-react-hw-04-images/static/css/main.9244e408.css.map",
-    "main.03ead488.js.map": "/victorpalagitskyi-goit-react-hw-04-images/static/js/main.03ead488.js.map"
+    "main.190373fb.js.map": "/victorpalagitskyi-goit-react-hw-04-images/static/js/main.190373fb.js.map"
   },
   "entrypoints": [
     "static/css/main.9244e408.css",
-    "static/js/main.03ead488.js"
+    "static/js/main.190373fb.js"
   ]
 }
